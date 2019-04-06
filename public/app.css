@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #04102A;
+    color: #FFEBDB;
+}
+
+#custom-nav {
+    background-color: #01050C;
+}
+
+.extra-m {
+    margin-top: 150px;
+    margin-bottom: auto;
+}
+
+input.btn {
+    margin-bottom: 6px;
+}
+
+.card {
+    color: #04102A;
+}
